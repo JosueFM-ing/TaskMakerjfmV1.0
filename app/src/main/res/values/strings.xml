@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APLICACION_1</string>
+    <string name="title_activity_slash_scream">SlashScream_Activity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
